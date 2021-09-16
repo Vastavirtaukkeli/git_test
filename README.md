@@ -1,0 +1,1 @@
+This is Vastavirtaukkeli's first git project!
